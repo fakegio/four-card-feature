@@ -165,7 +165,12 @@ body {
   .grid-item:nth-child(4) {
     grid-row: 1/-1;
   }
+
   .grid-item img {
     height: 6.4rem;
+  }
+  .grid-item {
+    width: 35rem;
+    height: 25rem;
   }
 }
